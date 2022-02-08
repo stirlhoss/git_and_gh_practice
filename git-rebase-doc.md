@@ -53,7 +53,7 @@ Successfully rebased and updated refs/heads/main.
 ```
 and you will feel very accomplished that you saved yourself from a silly typo.
 
-BUT WAIT!! THERES MORE!!!
+BUT WAIT!! THERE'S MORE!!!
 
 ## Pushing your changes
 
