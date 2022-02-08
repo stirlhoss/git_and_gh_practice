@@ -24,7 +24,8 @@ After entering the rebase command, 2 things will happen.
 1. Your terminal will show the message `hint: Waiting for your editor to close the file... `
 
 2. Your text editor will have opened a document that looks like this:
-    Add image Here
+    
+![Screen Shot 2022-02-08 at 00 24 45](https://user-images.githubusercontent.com/96191917/152936004-8a8a8689-7358-4885-a559-b2536490a714.png)
 
 This document is fairly intuitive once you understand the process, but very confusing on first blush. The uncommented lines show you 3 pieces of information:
 1. The command being used (pick is default)
@@ -35,10 +36,11 @@ The commented text gives you a wide range of information about what you can do w
 
 Lets say I want to want to add more detail to my commit that says "Add destination". I change `pick` to `reword` and close the document.
 
-image here
+![Screen Shot 2022-02-08 at 00 22 59](https://user-images.githubusercontent.com/96191917/152936057-acd5f6e2-fc0b-43ae-85dd-97ed7e873556.png)
 
 A new document should appear that looks like this:
-image here
+
+![Screen Shot 2022-02-08 at 00 11 53](https://user-images.githubusercontent.com/96191917/152936124-0fe8c2f5-d9f8-4983-a177-25f911456a1b.png)
 
 Follow the prompt and reword your commit message that appears on line 1. Then close the document.
 
