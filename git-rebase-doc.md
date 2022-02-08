@@ -1,4 +1,4 @@
-# using git rebase (altering commits)
+# Using git rebase (altering commits)
 
 ## What is git rebase
 
