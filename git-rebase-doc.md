@@ -25,7 +25,7 @@ After entering the rebase command, 2 things will happen.
 
 2. Your text editor will have opened a document that looks like this:
     
-![Screen Shot 2022-02-08 at 00 24 45](https://user-images.githubusercontent.com/96191917/152936004-8a8a8689-7358-4885-a559-b2536490a714.png)
+![Screen Shot 2022-02-08 at 00 11 53](https://user-images.githubusercontent.com/96191917/152936124-0fe8c2f5-d9f8-4983-a177-25f911456a1b.png)
 
 This document is fairly intuitive once you understand the process, but very confusing on first blush. The uncommented lines show you 3 pieces of information:
 1. The command being used (pick is default)
@@ -40,7 +40,7 @@ Lets say I want to want to add more detail to my commit that says "Add destinati
 
 A new document should appear that looks like this:
 
-![Screen Shot 2022-02-08 at 00 11 53](https://user-images.githubusercontent.com/96191917/152936124-0fe8c2f5-d9f8-4983-a177-25f911456a1b.png)
+![Screen Shot 2022-02-08 at 00 24 45](https://user-images.githubusercontent.com/96191917/152936004-8a8a8689-7358-4885-a559-b2536490a714.png)
 
 Follow the prompt and reword your commit message that appears on line 1. Then close the document.
 
